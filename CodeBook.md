@@ -47,3 +47,4 @@ It has no units since the original variable is normalized and bound in [-1,1].
 
 ##"Time.Body.Gyroscope.Jerk.Mag.Std"##
 The mean of the Standar Deviations of the gyroscope after adjusting for gravity and taking the eucledian norm.
+It has no units since the original variable is normalized and bound in [-1,1].
