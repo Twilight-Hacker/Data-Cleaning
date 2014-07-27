@@ -1,4 +1,4 @@
-# Codebook for the Coursera Getting and cleaning data Project #
+# Codebook for the Coursera Getting and Cleaning Data Project #
 
 The data set presents the means of various measurements from an experiment to generate data about activities of daily living of people.
 
